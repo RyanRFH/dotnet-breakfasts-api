@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SwLwv5aMlw+zc88lfcLZ0NV1ZrjuFJtrEW1ZwhfL6ZJIYqBRCsIUwQpRPLBLNqh12RJFQ1dVD5eXS+gO85jD7w==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Web Dev\\dotnet-api-tutorial-2\\BreakfastApp\\BreakfastApp\\BreakfastApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RyanP\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.3\\microsoft.aspnetcore.openapi.8.0.3.nupkg.sha512",
+    "C:\\Users\\RyanP\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}

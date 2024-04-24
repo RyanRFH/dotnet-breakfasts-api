@@ -1,0 +1,11 @@
+D:\Projects\Web Dev\dotnet-api-tutorial-2\BreakfastApp\BreakfastApp.Contracts\bin\Debug\net8.0\BreakfastApp.Contracts.deps.json
+D:\Projects\Web Dev\dotnet-api-tutorial-2\BreakfastApp\BreakfastApp.Contracts\bin\Debug\net8.0\BreakfastApp.Contracts.dll
+D:\Projects\Web Dev\dotnet-api-tutorial-2\BreakfastApp\BreakfastApp.Contracts\bin\Debug\net8.0\BreakfastApp.Contracts.pdb
+D:\Projects\Web Dev\dotnet-api-tutorial-2\BreakfastApp\BreakfastApp.Contracts\obj\Debug\net8.0\BreakfastApp.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Web Dev\dotnet-api-tutorial-2\BreakfastApp\BreakfastApp.Contracts\obj\Debug\net8.0\BreakfastApp.Contracts.AssemblyInfoInputs.cache
+D:\Projects\Web Dev\dotnet-api-tutorial-2\BreakfastApp\BreakfastApp.Contracts\obj\Debug\net8.0\BreakfastApp.Contracts.AssemblyInfo.cs
+D:\Projects\Web Dev\dotnet-api-tutorial-2\BreakfastApp\BreakfastApp.Contracts\obj\Debug\net8.0\BreakfastApp.Contracts.csproj.CoreCompileInputs.cache
+D:\Projects\Web Dev\dotnet-api-tutorial-2\BreakfastApp\BreakfastApp.Contracts\obj\Debug\net8.0\BreakfastApp.Contracts.dll
+D:\Projects\Web Dev\dotnet-api-tutorial-2\BreakfastApp\BreakfastApp.Contracts\obj\Debug\net8.0\refint\BreakfastApp.Contracts.dll
+D:\Projects\Web Dev\dotnet-api-tutorial-2\BreakfastApp\BreakfastApp.Contracts\obj\Debug\net8.0\BreakfastApp.Contracts.pdb
+D:\Projects\Web Dev\dotnet-api-tutorial-2\BreakfastApp\BreakfastApp.Contracts\obj\Debug\net8.0\ref\BreakfastApp.Contracts.dll
