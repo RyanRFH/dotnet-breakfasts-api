@@ -9,3 +9,4 @@ D:\Projects\Web Dev\dotnet-api-tutorial-2\BreakfastApp\BreakfastApp.Contracts\ob
 D:\Projects\Web Dev\dotnet-api-tutorial-2\BreakfastApp\BreakfastApp.Contracts\obj\Debug\net8.0\refint\BreakfastApp.Contracts.dll
 D:\Projects\Web Dev\dotnet-api-tutorial-2\BreakfastApp\BreakfastApp.Contracts\obj\Debug\net8.0\BreakfastApp.Contracts.pdb
 D:\Projects\Web Dev\dotnet-api-tutorial-2\BreakfastApp\BreakfastApp.Contracts\obj\Debug\net8.0\ref\BreakfastApp.Contracts.dll
+D:\Projects\Web Dev\dotnet-api-tutorial-2\breakfastapp\BreakfastApp.Contracts\obj\Debug\net8.0\BreakfastApp.Contracts.sourcelink.json

@@ -30,3 +30,5 @@ D:\Projects\Web Dev\dotnet-api-tutorial-2\BreakfastApp\BreakfastApp\obj\Debug\ne
 D:\Projects\Web Dev\dotnet-api-tutorial-2\BreakfastApp\BreakfastApp\obj\Debug\net8.0\BreakfastApp.pdb
 D:\Projects\Web Dev\dotnet-api-tutorial-2\BreakfastApp\BreakfastApp\obj\Debug\net8.0\BreakfastApp.genruntimeconfig.cache
 D:\Projects\Web Dev\dotnet-api-tutorial-2\BreakfastApp\BreakfastApp\obj\Debug\net8.0\ref\BreakfastApp.dll
+D:\Projects\Web Dev\dotnet-api-tutorial-2\breakfastapp\BreakfastApp\obj\Debug\net8.0\BreakfastApp.sourcelink.json
+D:\Projects\Web Dev\dotnet-api-tutorial-2\breakfastapp\BreakfastApp\bin\Debug\net8.0\ErrorOr.dll

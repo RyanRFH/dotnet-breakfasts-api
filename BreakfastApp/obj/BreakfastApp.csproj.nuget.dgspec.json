@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Web Dev\\dotnet-api-tutorial-2\\BreakfastApp\\BreakfastApp\\BreakfastApp.csproj": {}
+    "D:\\Projects\\Web Dev\\dotnet-api-tutorial-2\\breakfastapp\\BreakfastApp\\BreakfastApp.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Web Dev\\dotnet-api-tutorial-2\\BreakfastApp\\BreakfastApp.Contracts\\BreakfastApp.Contracts.csproj": {
+    "D:\\Projects\\Web Dev\\dotnet-api-tutorial-2\\breakfastapp\\BreakfastApp.Contracts\\BreakfastApp.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Web Dev\\dotnet-api-tutorial-2\\BreakfastApp\\BreakfastApp.Contracts\\BreakfastApp.Contracts.csproj",
+        "projectUniqueName": "D:\\Projects\\Web Dev\\dotnet-api-tutorial-2\\breakfastapp\\BreakfastApp.Contracts\\BreakfastApp.Contracts.csproj",
         "projectName": "BreakfastApp.Contracts",
-        "projectPath": "D:\\Projects\\Web Dev\\dotnet-api-tutorial-2\\BreakfastApp\\BreakfastApp.Contracts\\BreakfastApp.Contracts.csproj",
+        "projectPath": "D:\\Projects\\Web Dev\\dotnet-api-tutorial-2\\breakfastapp\\BreakfastApp.Contracts\\BreakfastApp.Contracts.csproj",
         "packagesPath": "C:\\Users\\RyanP\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Web Dev\\dotnet-api-tutorial-2\\BreakfastApp\\BreakfastApp.Contracts\\obj\\",
+        "outputPath": "D:\\Projects\\Web Dev\\dotnet-api-tutorial-2\\breakfastapp\\BreakfastApp.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RyanP\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "D:\\Projects\\Web Dev\\dotnet-api-tutorial-2\\BreakfastApp\\BreakfastApp\\BreakfastApp.csproj": {
+    "D:\\Projects\\Web Dev\\dotnet-api-tutorial-2\\breakfastapp\\BreakfastApp\\BreakfastApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Web Dev\\dotnet-api-tutorial-2\\BreakfastApp\\BreakfastApp\\BreakfastApp.csproj",
+        "projectUniqueName": "D:\\Projects\\Web Dev\\dotnet-api-tutorial-2\\breakfastapp\\BreakfastApp\\BreakfastApp.csproj",
         "projectName": "BreakfastApp",
-        "projectPath": "D:\\Projects\\Web Dev\\dotnet-api-tutorial-2\\BreakfastApp\\BreakfastApp\\BreakfastApp.csproj",
+        "projectPath": "D:\\Projects\\Web Dev\\dotnet-api-tutorial-2\\breakfastapp\\BreakfastApp\\BreakfastApp.csproj",
         "packagesPath": "C:\\Users\\RyanP\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Web Dev\\dotnet-api-tutorial-2\\BreakfastApp\\BreakfastApp\\obj\\",
+        "outputPath": "D:\\Projects\\Web Dev\\dotnet-api-tutorial-2\\breakfastapp\\BreakfastApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RyanP\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -84,8 +84,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Projects\\Web Dev\\dotnet-api-tutorial-2\\BreakfastApp\\BreakfastApp.Contracts\\BreakfastApp.Contracts.csproj": {
-                "projectPath": "D:\\Projects\\Web Dev\\dotnet-api-tutorial-2\\BreakfastApp\\BreakfastApp.Contracts\\BreakfastApp.Contracts.csproj"
+              "D:\\Projects\\Web Dev\\dotnet-api-tutorial-2\\breakfastapp\\BreakfastApp.Contracts\\BreakfastApp.Contracts.csproj": {
+                "projectPath": "D:\\Projects\\Web Dev\\dotnet-api-tutorial-2\\breakfastapp\\BreakfastApp.Contracts\\BreakfastApp.Contracts.csproj"
               }
             }
           }
@@ -105,6 +105,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.3, )"

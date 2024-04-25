@@ -1,10 +1,13 @@
 using BreakfastApp.Models;
+using ErrorOr;
 
 namespace BreakfastApp.Services.Breakfasts
 {
     public interface IBreakfastService
     {
-        void CreateBreakfast(Breakfast breakfast);
-        Breakfast GetBreakfast(Guid id);
+        ErrorOr<Created> CreateBreakfast(Breakfast breakfast);
+        ErrorOr<Deleted> DeleteBreakfast(Guid id);
+        ErrorOr<Breakfast> GetBreakfast(Guid id);
+        ErrorOr<UpsertedBreakfast> UpsertBreakfast(Breakfast breakfast);
     }
 }
